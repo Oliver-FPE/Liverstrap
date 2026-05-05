@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bloxstrap.AppData
+namespace Liverstrap.AppData
 {
     public abstract class CommonAppData
     {
