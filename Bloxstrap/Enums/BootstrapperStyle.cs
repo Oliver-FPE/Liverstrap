@@ -1,4 +1,4 @@
-﻿namespace Bloxstrap.Enums
+﻿namespace Liverstrap.Enums
 {
     public enum BootstrapperStyle
     {
